@@ -9,6 +9,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.html
 
 # Maven dependency directory
 target/
