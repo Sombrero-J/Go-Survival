@@ -82,3 +82,7 @@ Encountered a bug or have suggestions for improvements? Feel free to open an iss
 ## Acknowledgments
 
 Special thanks to my university for providing access to the physics engine and to my professors, Radu and Charlie, for their invaluable guidance.
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). You are free to download, play, and contribute to the project. However, any sale or commercial use of the original or modified code is strictly prohibited. If you run a modified version on a network server, you must also make the modified source code available under the same license.
